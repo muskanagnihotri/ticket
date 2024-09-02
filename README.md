@@ -1,5 +1,5 @@
 # ticket
-Ticket Booking System
+# Ticket Booking System
 
 The Ticket Booking System is a Python-based application designed to manage and facilitate the booking of tickets for various events. This project provides a simple command-line interface where users can view available events, select ticket categories, and book tickets. The system supports multiple events and ticket categories with dynamic pricing and seat availability.
 
